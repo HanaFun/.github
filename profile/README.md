@@ -7,7 +7,7 @@
   <img width="300" alt="image" src="https://github.com/HanaFun/HanaFun_FE/assets/79428205/91f79a27-7680-452f-93c7-620fba817d0e">
 </div>
 
-<p align='center' style='margin-top:3px'>프로젝트 기간: 24.06.13 ~ 24.07.08</p>
+<p align='center' style='margin-top:3px'><b>프로젝트 기간: 24.06.13 ~ 24.07.08</b></p>
 
 ## ✏️ 기능 소개
 
