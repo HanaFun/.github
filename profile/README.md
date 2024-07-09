@@ -7,7 +7,16 @@
   <img width="300" alt="image" src="https://github.com/HanaFun/HanaFun_FE/assets/79428205/91f79a27-7680-452f-93c7-620fba817d0e">
 </div>
 
-<p align='center' style='margin-top:3px'><b>프로젝트 기간: 24.06.13 ~ 24.07.08</b></p>
+## 🗣 프로젝트 소개
+
+<h4>간편 결제로 타인의 취미를 함께하고, 나의 취미를 공유할 수 있는 MZ 맞춤 금융 플랫폼</h4>
+
+예약 결제, 현장 결제 등에 옴니페이를 도입하여 결제를 편리하게 하고, 쉽게 취미를 즐길 수 있습니다.<br>
+또한, 호스트에게 수입 정산 및 관리를 도와 손 쉽게 매출 확인이 가능합니다.
+
+<p style='margin-top:3px'><b>프로젝트 기간: 24.06.13 ~ 24.07.08</b></p>
+
+<br>
 
 ## ✏️ 기능 소개
 
@@ -21,15 +30,14 @@
 
 ## 🎬 시연 영상
 
-![]()
+[![하나Fun!](https://github.com/Hana4Team/.github/assets/79428205/29cf248a-649f-4c81-8922-1b95e67b3d31)](https://youtu.be/E_9dWWKU4b8)
 
-<br>
 <br>
 <br>
 
 ## ⚙️ 시스템 아키텍처
 
-<img width="1200" alt="스크린샷 2024-06-13 오전 12 07 35" src="https://github.com/HanaFun/.github/assets/79428205/596fbd8a-b36e-4add-b38b-c4b7a786a2fd">
+<img width="1200" alt="스크린샷 2024-06-13 오전 12 07 35" src="https://github.com/HanaFun/HanaFun_FE/assets/79428205/6356da9e-d7dd-4617-8d51-2206eea3c636">
 
 <br>
 <br>
